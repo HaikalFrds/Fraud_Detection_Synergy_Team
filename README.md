@@ -410,7 +410,7 @@ SMOTE(
 
 ### 👥 **Synergy Squad Team**
 - **🐙 GitHub Repository:** [github.com/synergy-squad/advanced-fraud-detection](https://github.com/synergy-squad/advanced-fraud-detection)
-- **📊 Project Presentation:** Available in repository
+- **📊 Project Presentation:** [Project2-Fraud - Synergy Squad Team.pdf](https://github.com/user-attachments/files/20889266/Project2-Fraud.-.Synergy.Squad.Team.pdf)
 - **💼 LinkedIn Team:** Connect with individual team members for collaboration
 
 ### 📋 **Citation**
